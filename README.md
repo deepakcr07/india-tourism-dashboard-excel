@@ -10,7 +10,7 @@ The objective of this project is to explore tourism trends across India and help
 
 ## Dashboard Preview
 
-![Dashboard Preview](Screenshots/india_tourism_dashboard.png)
+![Dashboard Preview](Screenshot/india_tourism_dashboard.png)
 
 ---
 
