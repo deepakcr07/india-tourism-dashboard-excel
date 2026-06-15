@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project presents an interactive Excel dashboard built to analyze tourist destinations across India. The dashboard provides insights into ratings, entrance fees, accessibility, visiting times, and tourist attraction categories.
+This project showcases an interactive Excel dashboard built using Pivot Tables, Pivot Charts, and Slicers to analyze tourist destinations across India. The dashboard provides insights into ratings, accessibility, entrance fees, visiting times, and attraction categories.
 
 ## Objective
 
